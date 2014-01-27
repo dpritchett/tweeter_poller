@@ -1,0 +1,22 @@
+# Logfile created on 2014-01-27 15:21:20 -0600 by logger.rb/41954
+I, [2014-01-27T15:21:20.092012 #27565]  INFO -- : 0:  addressable (2.3.5) from /home/daniel/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/addressable-2.3.5.gemspec
+I, [2014-01-27T15:21:20.092527 #27565]  INFO -- : 0:  atomic (1.1.14) from /home/daniel/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/atomic-1.1.14.gemspec
+I, [2014-01-27T15:21:21.176797 #27565]  INFO -- : 0:  buftok (0.2.0) from /home/daniel/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/buftok-0.2.0.gemspec
+I, [2014-01-27T15:21:21.177374 #27565]  INFO -- : 0:  coderay (1.1.0) from /home/daniel/.rvm/gems/ruby-2.0.0-p353/specifications/coderay-1.1.0.gemspec
+I, [2014-01-27T15:21:21.808221 #27565]  INFO -- : 0:  descendants_tracker (0.0.3) from /home/daniel/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/descendants_tracker-0.0.3.gemspec
+I, [2014-01-27T15:21:22.495186 #27565]  INFO -- : 0:  equalizer (0.0.9) from /home/daniel/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/equalizer-0.0.9.gemspec
+I, [2014-01-27T15:21:22.496617 #27565]  INFO -- : 0:  multipart-post (2.0.0) from /home/daniel/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/multipart-post-2.0.0.gemspec
+I, [2014-01-27T15:21:22.497683 #27565]  INFO -- : 0:  faraday (0.9.0) from /home/daniel/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/faraday-0.9.0.gemspec
+I, [2014-01-27T15:21:25.724548 #27565]  INFO -- : 0:  http_parser.rb (0.6.0) from /home/daniel/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/http_parser.rb-0.6.0.gemspec
+I, [2014-01-27T15:21:26.554165 #27565]  INFO -- : 0:  http (0.5.0) from /home/daniel/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/http-0.5.0.gemspec
+I, [2014-01-27T15:21:26.554809 #27565]  INFO -- : 0:  json (1.8.1) from /home/daniel/.rvm/gems/ruby-2.0.0-p353/specifications/json-1.8.1.gemspec
+I, [2014-01-27T15:21:26.579257 #27565]  INFO -- : 0:  thread_safe (0.1.3) from /home/daniel/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/thread_safe-0.1.3.gemspec
+I, [2014-01-27T15:21:27.235643 #27565]  INFO -- : 0:  memoizable (0.4.0) from /home/daniel/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/memoizable-0.4.0.gemspec
+I, [2014-01-27T15:21:27.236483 #27565]  INFO -- : 0:  method_source (0.8.2) from /home/daniel/.rvm/gems/ruby-2.0.0-p353/specifications/method_source-0.8.2.gemspec
+I, [2014-01-27T15:21:28.491138 #27565]  INFO -- : 0:  naught (1.0.0) from /home/daniel/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/naught-1.0.0.gemspec
+I, [2014-01-27T15:21:28.492128 #27565]  INFO -- : 0:  slop (3.4.7) from /home/daniel/.rvm/gems/ruby-2.0.0-p353/specifications/slop-3.4.7.gemspec
+I, [2014-01-27T15:21:28.492976 #27565]  INFO -- : 0:  pry (0.9.12.4) from /home/daniel/.rvm/gems/ruby-2.0.0-p353/specifications/pry-0.9.12.4.gemspec
+I, [2014-01-27T15:21:29.952366 #27565]  INFO -- : 0:  redis (3.0.7) from /home/daniel/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/redis-3.0.7.gemspec
+I, [2014-01-27T15:21:30.705266 #27565]  INFO -- : 0:  simple_oauth (0.2.0) from /home/daniel/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/simple_oauth-0.2.0.gemspec
+I, [2014-01-27T15:21:32.580462 #27565]  INFO -- : 0:  twitter (5.6.0) from /home/daniel/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/twitter-5.6.0.gemspec
+I, [2014-01-27T15:21:32.581754 #27565]  INFO -- : 0:  bundler (1.5.0) from /home/daniel/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/bundler-1.5.0.gemspec
