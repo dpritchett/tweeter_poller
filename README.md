@@ -1,8 +1,8 @@
 # To run
 
 0. start redis
-1. Create a .env file
+1. Create a `.env` file like so: `cp .env.example .ev`
 2. Create a Twitter app and get some API keys (https://dev.twitter.com/apps/new)
-3. Add your keys to the .env file
+3. Add your keys to the `.env` file
 4. `bundle install`
 5. `ruby daemon.rb`
