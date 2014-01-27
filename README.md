@@ -1,6 +1,7 @@
 # To run
-1) Create a .env file
-1.5) Create a Twitter app and get some API keys (https://dev.twitter.com/apps/new)
-2) Add your keys to the .env file
-3) `bundle install`
-4) `ruby daemon.rb`
+
+1. Create a .env file
+2. Create a Twitter app and get some API keys (https://dev.twitter.com/apps/new)
+3. Add your keys to the .env file
+4. `bundle install`
+5. `ruby daemon.rb`
