@@ -1,4 +1,4 @@
-![travis ci badge](https://api.travis-ci.org/dpritchett/tweeter_poller.png)
+[![travis ci badge](https://api.travis-ci.org/dpritchett/tweeter_poller.png)](https://travis-ci.org/dpritchett/tweeter_poller)
 
 # To run
 
