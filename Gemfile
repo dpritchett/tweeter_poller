@@ -7,4 +7,5 @@ gem "twitter",  "~> 5.6.0"
 
 group :development, :test do
   gem "pry",      "~> 0.9.12.4"
+  gem "rake",     "~> 10.1.1"
 end
