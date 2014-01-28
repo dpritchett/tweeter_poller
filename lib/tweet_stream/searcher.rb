@@ -1,10 +1,10 @@
 module TweetStream
-  class Listener
+  class Searcher
     def initialize
       self
     end
 
-    def search_results(querystring, age_limit=30)
+    def search_results(querystring, age_limit: 30)
       res    = client.search(querystring)
       tweets = res.reject { |t| (Time.now - t.created_at) > age_limit }
       format_tweets tweets
@@ -12,7 +12,7 @@ module TweetStream
 
     private
     def format_tweets(tweets)
-      tweets.map{ |t| "#{t.full_text}\n\n\t- @#{t.user.handle} // #{t.created_at}" }
+      tweets.map{ |t| "#{t.full_text}\n\n\t- @#{t.user.handle} // #{t.created_at.ctime}" }
     end
 
     def client

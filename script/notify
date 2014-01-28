@@ -1,0 +1,2 @@
+#! /usr/bin/env bash
+echo $@ | xargs notify-send Tweet  # lunix

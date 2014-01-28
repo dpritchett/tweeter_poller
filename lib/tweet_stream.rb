@@ -6,5 +6,6 @@ module TweetStream
   require 'dotenv'
   Dotenv.load
 
-  require_relative "tweet_stream/listener"
+  require_relative "./tweet_stream/searcher"
+  require_relative "./tweet_stream/poller"
 end

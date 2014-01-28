@@ -1,0 +1,7 @@
+#! /usr/bin/env ruby
+require 'logger'
+require 'shellwords'
+
+require './lib/tweet_stream'
+
+TweetStream::Poller.new.main if __FILE__ == $0
