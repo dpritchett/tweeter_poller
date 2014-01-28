@@ -1,3 +1,5 @@
+![travis ci badge](https://api.travis-ci.org/dpritchett/tweeter_poller.png)
+
 # To run
 
 0. start redis
